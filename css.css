@@ -464,7 +464,7 @@ header nav ul,header nav li,footer nav ul,footer nav li{list-style:none;margin:0
 
 header nav li,footer nav li{display:inline-block}
 
-header nav li a,footer nav li a{padding:0 25px;color:inherit;height:90px;display:block;border:none}
+header nav li a,footer nav li a{padding:0 20px;color:inherit;height:90px;display:block;border:none}
 
 header nav li:last-child a,footer nav li:last-child a{margin-right:0}
 
