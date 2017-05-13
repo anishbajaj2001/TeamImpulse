@@ -352,6 +352,14 @@ hr{margin-top:3rem;margin-bottom:3.5rem;border-width:0;border-top:1px solid}
     header nav li a,footer nav li a{height:30px!important;line-height:30px!important}
 
     header .left{display:none}
+    .hero {
+        height: 65%;
+        width: 100%;
+        display: flex;
+        position: absolute;
+        align-items: center;
+        justify-content: center;
+    }
 
     .dark {
     background-color: #fff;
