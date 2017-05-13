@@ -21,6 +21,10 @@ body {
     color: #aaa;
 }
 
+.mob-logo {
+   display: none;
+}
+
 .haha h2 {
     height: 110%;
     width: 100%;
@@ -472,4 +476,4 @@ header nav li a:hover,footer nav li a:hover{border:none;color:#9b58b5}
 
 .active a,.active a:hover{border-color:#9b58b5}
 
-.mob-logo{display:none;color:#9b58b5}
+.mob-logo{color:#9b58b5}
