@@ -312,8 +312,8 @@ hr{margin-top:3rem;margin-bottom:3.5rem;border-width:0;border-top:1px solid}
 
 #home .hero .hero-text{font-size:400%;margin-bottom:7.5px}
 
-#home .hero img.logo{height:165px;margin:15px 0 60px 0}
-
+#home .hero img.logo{height:165px;margin:15px 0 30px 0}
+#home .hero .motto{margin-bottom: 35px;}
 #home .hero h4{color:#aaa;font-weight:100;margin-top:0}
 
 #home .hero ul.cta{margin-top:50px}
