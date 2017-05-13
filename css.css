@@ -336,7 +336,7 @@ hr{margin-top:3rem;margin-bottom:3.5rem;border-width:0;border-top:1px solid}
 
 #home section#x .one-half img{height:165px;display:block;margin:70px auto 0 auto}
 
-@media (max-width: 1000px) {
+@media (max-width: 1050px) {
     header{padding-top:0;height:55px!important;line-height:55px!important}
 
     header a{font-size:95%;height:auto}
