@@ -21,6 +21,10 @@ body {
     color: #aaa;
 }
 
+#thediv {
+    display: none;
+}
+
 .haha h2 {
     height: 115%;
     width: 100%;
@@ -313,7 +317,8 @@ hr{margin-top:3rem;margin-bottom:3.5rem;border-width:0;border-top:1px solid}
 #home .hero .hero-text{font-size:400%;margin-bottom:7.5px}
 
 #home .hero img.logo{height:165px;margin:15px 0 30px 0}
-#home .hero .motto{margin-bottom: 6%;}
+
+#home .hero .container{margin-bottom: 4%;}
 
 #home .hero h4{color:#aaa;font-weight:100;margin-top:0}
 
@@ -344,7 +349,7 @@ hr{margin-top:3rem;margin-bottom:3.5rem;border-width:0;border-top:1px solid}
 
     nav{position:fixed;float: right; width: 100%; left:0;right:0;top:0;overflow-x:auto;white-space:nowrap;text-align:left;background:#fff;z-index:9000;border-bottom:1px solid #eee}
 
-    nav .mob-logo{display:inline-block;font-size:140%}
+    nav .mob-logo{display:inline-block;font-size:140%;}
 
     header nav li:last-child a{margin-right:25px}
 
